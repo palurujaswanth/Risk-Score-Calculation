@@ -699,3 +699,838 @@ income,housing,education,access to care
 32000,Rented,Undergraduate,Good
 34000,Rented,Undergraduate,Good
 25000,Rented,Undergraduate,Moderate
+51000,Rented,Undergraduate,Good
+86000,Owned,Graduate,Excellent
+89000,Owned,High School,Excellent
+36000,Owned,Undergraduate,Good
+132000,Owned,Postgraduate,Excellent
+17000,Homeless,Primary,Poor
+130000,Owned,Undergraduate,Excellent
+30000,Shared housing,Undergraduate,Limited
+28000,Temporary,High School,Limited
+66000,Owned,Undergraduate,Good
+50000,Owned,Graduate,Good
+59000,Owned,Undergraduate,Excellent
+58000,Owned,Undergraduate,Good
+30000,Rented,Undergraduate,Limited
+60000,Owned,Undergraduate,Good
+41000,Owned,High School,Excellent
+9000,Rented,No formal education,Poor
+56000,Owned,Postgraduate,Excellent
+50000,Owned,High School,Good
+25000,Rented,High School,Limited
+34000,Rented,High School,Moderate
+55000,Rented,High School,Good
+97000,Owned,Undergraduate,Excellent
+31000,Rented,High School,Moderate
+26000,Unstable,High School,Limited
+10000,Shared housing,Primary,Poor
+80000,Owned,Postgraduate,Excellent
+12000,Shared housing,No formal education,Poor
+98000,Owned,Postgraduate,Excellent
+9000,Temporary,Primary,Poor
+26000,Rented,High School,Moderate
+42000,Rented,Undergraduate,Good
+32000,Rented,Undergraduate,Moderate
+24000,Unstable,Undergraduate,Limited
+20000,Owned,Primary,Poor
+75000,Owned,Graduate,Excellent
+46000,Rented,Undergraduate,Good
+92000,Rented,Postgraduate,Excellent
+87000,Owned,Postgraduate,Good
+73000,Owned,Undergraduate,Excellent
+93000,Owned,Graduate,Excellent
+52000,Rented,Postgraduate,Excellent
+96000,Rented,Undergraduate,Good
+67000,Owned,Undergraduate,Excellent
+102000,Owned,Undergraduate,Excellent
+89000,Owned,Undergraduate,Excellent
+46000,Rented,Undergraduate,Good
+52000,Owned,Undergraduate,Excellent
+9000,Unstable,No formal education,Poor
+48000,Rented,Secondary,Moderate
+37000,Owned,High School,Good
+29000,Unstable,High School,Moderate
+56000,Owned,Undergraduate,Good
+37000,Rented,Postgraduate,Excellent
+37000,Rented,High School,Limited
+56000,Rented,Graduate,Good
+37000,Rented,High School,Moderate
+52000,Rented,Undergraduate,Good
+18000,Rented,Primary,Limited
+36000,Owned,Undergraduate,Good
+38000,Rented,Undergraduate,Moderate
+71000,Owned,Graduate,Excellent
+20000,Rented,Primary,Limited
+37000,Owned,Undergraduate,Moderate
+83000,Owned,Graduate,Excellent
+64000,Rented,Undergraduate,Good
+34000,Owned,Secondary,Good
+86000,Rented,Graduate,Excellent
+22000,Rented,Secondary,Limited
+21000,Rented,Primary,Poor
+25000,Rented,Primary,Limited
+59000,Owned,Undergraduate,Good
+67000,Owned,Graduate,Excellent
+85000,Owned,Graduate,Excellent
+27000,Shared housing,Undergraduate,Moderate
+100000,Owned,Graduate,Excellent
+61000,Owned,Postgraduate,Excellent
+41000,Rented,Undergraduate,Excellent
+34000,Rented,Undergraduate,Moderate
+48000,Rented,Postgraduate,Excellent
+20000,Shared housing,High School,Limited
+21000,Rented,High School,Moderate
+95000,Owned,Postgraduate,Excellent
+19000,Owned,Primary,Moderate
+38000,Rented,Undergraduate,Good
+86000,Owned,Postgraduate,Excellent
+80000,Owned,Undergraduate,Excellent
+25000,Shared housing,Undergraduate,Limited
+48000,Rented,High School,Moderate
+14000,Rented,High School,Limited
+29000,Rented,Undergraduate,Good
+37000,Owned,Undergraduate,Good
+23000,Unstable,Undergraduate,Limited
+48000,Owned,Undergraduate,Excellent
+107000,Owned,Postgraduate,Excellent
+30000,Owned,Undergraduate,Good
+39000,Owned,Undergraduate,Good
+54000,Owned,Graduate,Excellent
+27000,Unstable,Undergraduate,Limited
+22000,Owned,High School,Limited
+45000,Owned,Undergraduate,Excellent
+71000,Owned,Graduate,Excellent
+82000,Owned,Postgraduate,Excellent
+8000,Homeless,No formal education,Poor
+39000,Shared housing,High School,Moderate
+13000,Shared housing,Primary,Poor
+14000,Rented,High School,Limited
+34000,Owned,High School,Good
+17000,Owned,Secondary,Moderate
+58000,Owned,Postgraduate,Good
+34000,Rented,Undergraduate,Good
+24000,Rented,High School,Moderate
+47000,Owned,Undergraduate,Excellent
+35000,Owned,High School,Good
+20000,Rented,High School,Limited
+46000,Rented,Undergraduate,Moderate
+41000,Owned,Undergraduate,Excellent
+67000,Owned,Undergraduate,Good
+21000,Unstable,High School,Limited
+29000,Unstable,Secondary,Limited
+30000,Owned,High School,Moderate
+37000,Owned,Undergraduate,Good
+50000,Rented,Graduate,Excellent
+65000,Rented,Postgraduate,Excellent
+108000,Owned,Postgraduate,Excellent
+27000,Owned,High School,Limited
+44000,Owned,Graduate,Excellent
+75000,Owned,Postgraduate,Excellent
+28000,Rented,High School,Moderate
+8000,Temporary,No formal education,Poor
+28000,Owned,Secondary,Moderate
+57000,Owned,Undergraduate,Excellent
+89000,Owned,Graduate,Excellent
+41000,Owned,High School,Moderate
+138000,Owned,Postgraduate,Excellent
+37000,Unstable,Secondary,Limited
+59000,Owned,Undergraduate,Good
+13000,Rented,Secondary,Poor
+61000,Owned,Undergraduate,Good
+14000,Rented,Primary,Limited
+29000,Shared housing,Undergraduate,Limited
+20000,Owned,High School,Limited
+30000,Rented,Undergraduate,Moderate
+74000,Owned,Graduate,Good
+53000,Owned,High School,Good
+117000,Owned,Postgraduate,Excellent
+29000,Rented,High School,Limited
+14000,Homeless,High School,Poor
+25000,Shared housing,Secondary,Limited
+15000,Unstable,Primary,Poor
+14000,Owned,Primary,Poor
+83000,Owned,Graduate,Excellent
+16000,Temporary,No formal education,Poor
+48000,Owned,Undergraduate,Good
+47000,Owned,Undergraduate,Good
+51000,Owned,Undergraduate,Excellent
+37000,Owned,High School,Good
+12000,Temporary,Primary,Poor
+35000,Rented,Secondary,Good
+41000,Rented,Undergraduate,Good
+76000,Owned,Graduate,Excellent
+42000,Owned,High School,Moderate
+24000,Rented,High School,Limited
+85000,Owned,Graduate,Excellent
+21000,Shared housing,Primary,Poor
+45000,Owned,Undergraduate,Good
+135000,Owned,Postgraduate,Excellent
+32000,Owned,High School,Good
+43000,Rented,High School,Moderate
+37000,Owned,High School,Moderate
+50000,Owned,Undergraduate,Excellent
+57000,Owned,Graduate,Excellent
+28000,Rented,Undergraduate,Moderate
+28000,Owned,High School,Good
+40000,Rented,High School,Good
+26000,Owned,Undergraduate,Good
+40000,Rented,Undergraduate,Moderate
+28000,Rented,Primary,Limited
+31000,Rented,Undergraduate,Good
+69000,Rented,Undergraduate,Excellent
+21000,Rented,Secondary,Limited
+60000,Owned,Undergraduate,Excellent
+8000,Homeless,Secondary,Poor
+11000,Rented,Primary,Poor
+65000,Owned,Undergraduate,Excellent
+33000,Rented,Undergraduate,Moderate
+34000,Rented,Undergraduate,Moderate
+60000,Owned,Undergraduate,Excellent
+37000,Owned,Primary,Moderate
+38000,Owned,Undergraduate,Good
+48000,Owned,High School,Moderate
+16000,Temporary,No formal education,Poor
+58000,Owned,Undergraduate,Good
+27000,Rented,Secondary,Limited
+37000,Owned,High School,Moderate
+31000,Rented,High School,Limited
+53000,Owned,Undergraduate,Excellent
+58000,Owned,Graduate,Excellent
+64000,Owned,Undergraduate,Excellent
+16000,Shared housing,Secondary,Limited
+17000,Owned,Secondary,Limited
+20000,Owned,High School,Moderate
+35000,Unstable,High School,Moderate
+27000,Rented,Undergraduate,Good
+49000,Owned,Undergraduate,Good
+22000,Rented,High School,Moderate
+52000,Owned,Undergraduate,Excellent
+24000,Temporary,High School,Limited
+61000,Owned,Graduate,Excellent
+23000,Unstable,Undergraduate,Moderate
+43000,Owned,Undergraduate,Good
+81000,Owned,Postgraduate,Excellent
+45000,Owned,Undergraduate,Good
+42000,Owned,Undergraduate,Good
+79000,Rented,Undergraduate,Excellent
+81000,Owned,Undergraduate,Excellent
+61000,Rented,Postgraduate,Good
+59000,Owned,High School,Good
+22000,Shared housing,High School,Limited
+19000,Shared housing,Primary,Poor
+64000,Owned,Postgraduate,Excellent
+13000,Shared housing,Primary,Limited
+35000,Owned,Postgraduate,Moderate
+47000,Owned,High School,Excellent
+94000,Owned,Postgraduate,Excellent
+19000,Shared housing,Secondary,Poor
+51000,Owned,High School,Excellent
+48000,Rented,Undergraduate,Good
+48000,Owned,High School,Good
+22000,Owned,High School,Moderate
+23000,Unstable,Secondary,Limited
+32000,Rented,Secondary,Limited
+69000,Owned,Graduate,Excellent
+25000,Rented,Undergraduate,Moderate
+44000,Rented,Undergraduate,Good
+16000,Shared housing,High School,Poor
+34000,Rented,High School,Moderate
+69000,Owned,Postgraduate,Excellent
+51000,Owned,Postgraduate,Excellent
+77000,Owned,Undergraduate,Good
+48000,Owned,Undergraduate,Excellent
+19000,Owned,Primary,Moderate
+22000,Unstable,High School,Limited
+50000,Owned,Undergraduate,Good
+18000,Shared housing,High School,Poor
+25000,Rented,High School,Moderate
+92000,Owned,Undergraduate,Excellent
+23000,Owned,Secondary,Moderate
+62000,Owned,Postgraduate,Excellent
+39000,Shared housing,Secondary,Moderate
+64000,Owned,Undergraduate,Excellent
+16000,Rented,High School,Poor
+67000,Rented,Undergraduate,Excellent
+46000,Owned,High School,Moderate
+16000,Unstable,High School,Limited
+28000,Owned,Undergraduate,Good
+119000,Owned,Postgraduate,Excellent
+51000,Owned,Undergraduate,Excellent
+21000,Temporary,No formal education,Poor
+24000,Temporary,Primary,Poor
+11000,Rented,Secondary,Limited
+15000,Rented,High School,Limited
+12000,Temporary,Secondary,Poor
+84000,Owned,Postgraduate,Excellent
+34000,Owned,High School,Good
+11000,Rented,High School,Limited
+24000,Temporary,Secondary,Moderate
+65000,Owned,High School,Excellent
+59000,Shared housing,Undergraduate,Good
+24000,Owned,High School,Moderate
+29000,Rented,Primary,Limited
+55000,Owned,Undergraduate,Excellent
+80000,Shared housing,Postgraduate,Excellent
+41000,Owned,Secondary,Good
+16000,Shared housing,Secondary,Limited
+47000,Rented,Undergraduate,Excellent
+34000,Rented,High School,Moderate
+19000,Temporary,Primary,Poor
+28000,Shared housing,Primary,Limited
+77000,Rented,Postgraduate,Excellent
+103000,Owned,Undergraduate,Excellent
+15000,Shared housing,High School,Poor
+21000,Shared housing,Secondary,Limited
+90000,Owned,Postgraduate,Excellent
+25000,Rented,High School,Moderate
+22000,Rented,High School,Limited
+41000,Rented,Undergraduate,Moderate
+40000,Rented,Graduate,Moderate
+15000,Rented,No formal education,Poor
+41000,Rented,Undergraduate,Moderate
+25000,Shared housing,High School,Limited
+67000,Rented,Postgraduate,Good
+45000,Owned,High School,Good
+26000,Rented,High School,Moderate
+106000,Owned,Undergraduate,Excellent
+70000,Owned,Postgraduate,Excellent
+33000,Rented,Undergraduate,Good
+65000,Owned,Undergraduate,Good
+24000,Rented,Secondary,Limited
+31000,Owned,High School,Moderate
+59000,Owned,Undergraduate,Good
+20000,Homeless,Secondary,Poor
+102000,Owned,Postgraduate,Excellent
+125000,Owned,Postgraduate,Excellent
+37000,Unstable,Undergraduate,Moderate
+24000,Owned,High School,Limited
+78000,Owned,Postgraduate,Excellent
+61000,Rented,Undergraduate,Good
+22000,Unstable,Undergraduate,Limited
+36000,Owned,Secondary,Good
+39000,Owned,Undergraduate,Good
+78000,Owned,Graduate,Excellent
+24000,Rented,Secondary,Limited
+23000,Rented,High School,Moderate
+41000,Owned,High School,Good
+39000,Rented,Graduate,Good
+11000,Unstable,Primary,Poor
+71000,Owned,Undergraduate,Excellent
+50000,Rented,Undergraduate,Excellent
+42000,Owned,Undergraduate,Good
+27000,Rented,Secondary,Limited
+33000,Rented,Postgraduate,Good
+15000,Shared housing,Secondary,Poor
+63000,Owned,Graduate,Excellent
+19000,Temporary,No formal education,Poor
+38000,Owned,Undergraduate,Moderate
+28000,Owned,High School,Moderate
+33000,Rented,High School,Limited
+105000,Owned,Graduate,Excellent
+39000,Owned,High School,Moderate
+34000,Unstable,Undergraduate,Moderate
+44000,Rented,Undergraduate,Good
+11000,Unstable,No formal education,Poor
+62000,Owned,Undergraduate,Excellent
+72000,Owned,Postgraduate,Good
+35000,Owned,High School,Good
+90000,Owned,Graduate,Excellent
+17000,Rented,Secondary,Moderate
+30000,Rented,Undergraduate,Moderate
+22000,Unstable,High School,Limited
+24000,Temporary,Secondary,Limited
+36000,Owned,Undergraduate,Good
+10000,Rented,No formal education,Poor
+82000,Rented,Postgraduate,Excellent
+22000,Unstable,Undergraduate,Poor
+23000,Rented,High School,Limited
+28000,Owned,Undergraduate,Limited
+9000,Shared housing,Primary,Poor
+27000,Rented,Undergraduate,Moderate
+60000,Rented,Graduate,Good
+70000,Owned,Graduate,Excellent
+21000,Shared housing,Secondary,Poor
+22000,Rented,Secondary,Limited
+67000,Rented,Undergraduate,Excellent
+16000,Unstable,High School,Poor
+84000,Owned,Postgraduate,Excellent
+53000,Rented,Undergraduate,Good
+47000,Rented,Undergraduate,Good
+94000,Owned,Undergraduate,Excellent
+50000,Owned,Graduate,Good
+39000,Owned,High School,Excellent
+47000,Owned,Undergraduate,Good
+10000,Temporary,Primary,Poor
+86000,Rented,Postgraduate,Excellent
+80000,Owned,Graduate,Excellent
+16000,Rented,Primary,Poor
+32000,Owned,High School,Moderate
+74000,Owned,Graduate,Excellent
+72000,Owned,Undergraduate,Excellent
+22000,Shared housing,High School,Limited
+33000,Owned,High School,Good
+58000,Owned,Undergraduate,Excellent
+39000,Owned,Undergraduate,Moderate
+13000,Unstable,Secondary,Poor
+29000,Rented,High School,Moderate
+64000,Owned,Graduate,Excellent
+99000,Shared housing,Graduate,Excellent
+29000,Owned,Undergraduate,Moderate
+43000,Rented,Graduate,Good
+35000,Rented,Undergraduate,Moderate
+75000,Owned,Graduate,Excellent
+32000,Rented,High School,Moderate
+17000,Rented,Primary,Limited
+18000,Shared housing,Primary,Limited
+28000,Rented,Undergraduate,Moderate
+10000,Shared housing,No formal education,Poor
+70000,Rented,Graduate,Good
+14000,Rented,Secondary,Limited
+67000,Rented,Graduate,Good
+17000,Rented,High School,Limited
+8000,Homeless,Primary,Poor
+33000,Unstable,High School,Limited
+11000,Unstable,No formal education,Poor
+16000,Homeless,Secondary,Poor
+22000,Rented,Secondary,Good
+58000,Shared housing,Postgraduate,Good
+25000,Rented,High School,Moderate
+55000,Owned,Undergraduate,Good
+17000,Rented,Primary,Limited
+28000,Rented,Primary,Limited
+62000,Owned,Undergraduate,Excellent
+28000,Rented,High School,Limited
+31000,Rented,High School,Good
+25000,Unstable,Secondary,Poor
+42000,Owned,Undergraduate,Moderate
+92000,Owned,Postgraduate,Excellent
+31000,Rented,High School,Good
+23000,Shared housing,High School,Limited
+24000,Rented,High School,Moderate
+29000,Unstable,Secondary,Poor
+47000,Owned,High School,Excellent
+67000,Shared housing,Graduate,Good
+18000,Owned,Primary,Limited
+78000,Rented,Graduate,Excellent
+15000,Rented,Primary,Poor
+45000,Owned,Undergraduate,Good
+41000,Rented,Undergraduate,Good
+18000,Rented,High School,Limited
+43000,Rented,Graduate,Excellent
+48000,Rented,Undergraduate,Good
+34000,Owned,Undergraduate,Good
+28000,Owned,High School,Good
+27000,Rented,Secondary,Limited
+37000,Rented,Undergraduate,Moderate
+14000,Shared housing,Secondary,Limited
+61000,Owned,Graduate,Good
+74000,Owned,Graduate,Excellent
+33000,Owned,High School,Good
+106000,Owned,Undergraduate,Excellent
+49000,Owned,Undergraduate,Excellent
+38000,Rented,High School,Good
+19000,Shared housing,Secondary,Limited
+58000,Owned,High School,Good
+64000,Owned,High School,Good
+23000,Rented,Undergraduate,Moderate
+41000,Owned,Undergraduate,Good
+30000,Rented,Primary,Moderate
+66000,Shared housing,Postgraduate,Excellent
+22000,Rented,Secondary,Poor
+18000,Rented,Secondary,Limited
+15000,Unstable,Primary,Poor
+38000,Rented,High School,Moderate
+80000,Owned,Postgraduate,Excellent
+43000,Rented,Undergraduate,Good
+13000,Temporary,High School,Poor
+25000,Rented,Graduate,Moderate
+34000,Owned,Postgraduate,Good
+71000,Owned,Undergraduate,Excellent
+55000,Rented,Undergraduate,Good
+84000,Owned,Postgraduate,Excellent
+17000,Unstable,No formal education,Poor
+43000,Owned,Undergraduate,Excellent
+53000,Rented,Undergraduate,Moderate
+37000,Rented,Undergraduate,Moderate
+24000,Owned,High School,Good
+20000,Owned,High School,Moderate
+105000,Owned,Graduate,Excellent
+59000,Rented,Graduate,Excellent
+9000,Shared housing,Secondary,Poor
+48000,Owned,Undergraduate,Excellent
+41000,Rented,Undergraduate,Good
+27000,Shared housing,High School,Limited
+19000,Rented,High School,Limited
+36000,Owned,High School,Moderate
+50000,Rented,Undergraduate,Good
+31000,Rented,High School,Limited
+44000,Owned,Undergraduate,Good
+61000,Rented,Undergraduate,Good
+119000,Owned,Postgraduate,Excellent
+59000,Owned,Undergraduate,Excellent
+15000,Temporary,Primary,Poor
+19000,Temporary,Secondary,Poor
+27000,Rented,Undergraduate,Moderate
+11000,Homeless,No formal education,Poor
+45000,Owned,High School,Moderate
+62000,Owned,High School,Good
+22000,Rented,Secondary,Limited
+31000,Owned,Primary,Limited
+9000,Temporary,No formal education,Poor
+24000,Rented,Secondary,Limited
+84000,Owned,Postgraduate,Excellent
+43000,Owned,High School,Excellent
+56000,Rented,Postgraduate,Excellent
+12000,Unstable,Primary,Poor
+31000,Shared housing,Undergraduate,Good
+39000,Rented,Undergraduate,Moderate
+39000,Owned,Undergraduate,Good
+63000,Owned,Graduate,Excellent
+16000,Owned,High School,Limited
+77000,Rented,Undergraduate,Excellent
+12000,Rented,Secondary,Poor
+54000,Owned,Undergraduate,Excellent
+81000,Owned,Undergraduate,Excellent
+21000,Rented,Primary,Limited
+31000,Rented,High School,Moderate
+29000,Rented,Secondary,Limited
+44000,Owned,Undergraduate,Good
+25000,Shared housing,High School,Moderate
+31000,Rented,Undergraduate,Moderate
+51000,Unstable,Undergraduate,Moderate
+43000,Rented,High School,Good
+210000,Owned,Postgraduate,Excellent
+53000,Owned,Undergraduate,Excellent
+24000,Unstable,Undergraduate,Poor
+33000,Owned,Secondary,Good
+32000,Owned,High School,Good
+32000,Shared housing,High School,Moderate
+43000,Owned,Undergraduate,Good
+15000,Shared housing,Primary,Poor
+21000,Owned,Secondary,Moderate
+81000,Owned,Undergraduate,Excellent
+21000,Rented,High School,Limited
+34000,Rented,High School,Good
+17000,Rented,Primary,Limited
+21000,Rented,Primary,Limited
+35000,Owned,High School,Good
+27000,Owned,High School,Good
+121000,Rented,Postgraduate,Excellent
+49000,Owned,Undergraduate,Good
+13000,Shared housing,Secondary,Poor
+40000,Rented,Undergraduate,Moderate
+16000,Rented,No formal education,Limited
+44000,Owned,Undergraduate,Good
+14000,Rented,High School,Limited
+48000,Owned,Undergraduate,Moderate
+111000,Rented,Postgraduate,Excellent
+94000,Owned,Postgraduate,Excellent
+55000,Owned,Undergraduate,Good
+12000,Temporary,Primary,Poor
+18000,Shared housing,Primary,Poor
+28000,Rented,High School,Moderate
+9000,Rented,Primary,Poor
+23000,Shared housing,High School,Moderate
+74000,Owned,Graduate,Excellent
+16000,Owned,High School,Limited
+40000,Rented,High School,Excellent
+63000,Owned,Graduate,Excellent
+22000,Rented,Undergraduate,Good
+38000,Owned,High School,Good
+31000,Rented,High School,Moderate
+37000,Rented,Undergraduate,Good
+52000,Owned,Undergraduate,Good
+20000,Rented,Secondary,Limited
+47000,Owned,Undergraduate,Good
+20000,Shared housing,Primary,Limited
+49000,Owned,Undergraduate,Good
+85000,Owned,Postgraduate,Excellent
+18000,Owned,Secondary,Limited
+47000,Owned,Undergraduate,Good
+29000,Rented,High School,Moderate
+25000,Shared housing,Secondary,Limited
+18000,Unstable,High School,Poor
+17000,Rented,Secondary,Limited
+21000,Unstable,High School,Poor
+42000,Rented,Undergraduate,Good
+50000,Owned,Undergraduate,Good
+92000,Owned,Graduate,Excellent
+41000,Owned,Graduate,Good
+53000,Owned,High School,Good
+66000,Owned,Postgraduate,Excellent
+45000,Rented,Graduate,Excellent
+25000,Rented,High School,Limited
+13000,Unstable,Primary,Poor
+25000,Shared housing,High School,Limited
+22000,Unstable,Undergraduate,Poor
+37000,Rented,Undergraduate,Good
+20000,Rented,Secondary,Limited
+58000,Rented,Graduate,Good
+49000,Shared housing,Undergraduate,Good
+26000,Owned,Secondary,Moderate
+74000,Rented,Graduate,Excellent
+44000,Owned,High School,Good
+26000,Rented,High School,Moderate
+63000,Rented,Undergraduate,Good
+66000,Owned,Undergraduate,Excellent
+64000,Owned,Postgraduate,Excellent
+31000,Rented,Undergraduate,Moderate
+30000,Rented,High School,Moderate
+28000,Rented,High School,Moderate
+8000,Unstable,Primary,Poor
+23000,Rented,High School,Limited
+146000,Owned,Graduate,Excellent
+27000,Homeless,High School,Poor
+49000,Owned,Graduate,Excellent
+20000,Unstable,High School,Poor
+42000,Owned,Undergraduate,Excellent
+14000,Rented,Primary,Poor
+31000,Unstable,Secondary,Limited
+36000,Shared housing,High School,Moderate
+69000,Owned,Postgraduate,Good
+37000,Owned,Undergraduate,Moderate
+29000,Owned,Secondary,Good
+12000,Shared housing,High School,Poor
+21000,Owned,Primary,Limited
+58000,Shared housing,Undergraduate,Excellent
+88000,Shared housing,Postgraduate,Excellent
+36000,Rented,Undergraduate,Good
+40000,Owned,Undergraduate,Good
+33000,Rented,High School,Limited
+50000,Owned,Undergraduate,Excellent
+32000,Rented,High School,Moderate
+79000,Rented,Undergraduate,Excellent
+26000,Unstable,High School,Limited
+38000,Owned,Undergraduate,Excellent
+24000,Rented,Secondary,Moderate
+19000,Rented,High School,Moderate
+23000,Shared housing,High School,Limited
+55000,Owned,High School,Good
+20000,Shared housing,Secondary,Limited
+99000,Owned,Undergraduate,Excellent
+36000,Rented,Undergraduate,Good
+22000,Unstable,Secondary,Poor
+45000,Shared housing,Undergraduate,Moderate
+78000,Owned,Undergraduate,Excellent
+90000,Owned,Postgraduate,Excellent
+55000,Owned,Graduate,Good
+73000,Owned,Postgraduate,Excellent
+62000,Rented,Postgraduate,Excellent
+80000,Rented,Postgraduate,Excellent
+138000,Owned,Postgraduate,Excellent
+89000,Shared housing,Postgraduate,Excellent
+31000,Owned,High School,Moderate
+30000,Owned,Secondary,Good
+66000,Owned,Postgraduate,Excellent
+18000,Shared housing,High School,Limited
+108000,Owned,Graduate,Excellent
+50000,Owned,Postgraduate,Good
+75000,Owned,Undergraduate,Excellent
+26000,Rented,High School,Moderate
+45000,Rented,Undergraduate,Good
+72000,Owned,Graduate,Excellent
+21000,Unstable,Secondary,Poor
+95000,Owned,Graduate,Excellent
+49000,Owned,Undergraduate,Moderate
+82000,Owned,Postgraduate,Excellent
+17000,Shared housing,High School,Limited
+85000,Owned,Postgraduate,Excellent
+12000,Shared housing,Secondary,Poor
+66000,Owned,Undergraduate,Good
+55000,Rented,Postgraduate,Good
+74000,Owned,Undergraduate,Excellent
+23000,Rented,Secondary,Moderate
+63000,Owned,Postgraduate,Excellent
+76000,Owned,Undergraduate,Good
+17000,Rented,High School,Moderate
+55000,Owned,Postgraduate,Excellent
+38000,Rented,Graduate,Moderate
+98000,Owned,Postgraduate,Excellent
+53000,Owned,Undergraduate,Excellent
+24000,Rented,Secondary,Limited
+96000,Rented,Undergraduate,Excellent
+33000,Rented,High School,Moderate
+42000,Rented,High School,Good
+16000,Unstable,No formal education,Poor
+34000,Rented,High School,Moderate
+13000,Rented,High School,Poor
+18000,Rented,Primary,Poor
+20000,Unstable,High School,Limited
+24000,Shared housing,High School,Moderate
+30000,Owned,Undergraduate,Moderate
+21000,Unstable,High School,Limited
+23000,Rented,High School,Moderate
+27000,Rented,Secondary,Moderate
+30000,Owned,Secondary,Good
+22000,Rented,High School,Moderate
+13000,Rented,Secondary,Poor
+28000,Temporary,High School,Limited
+33000,Owned,High School,Moderate
+14000,Rented,Secondary,Limited
+20000,Rented,High School,Limited
+80000,Owned,Undergraduate,Excellent
+22000,Unstable,High School,Limited
+11000,Rented,High School,Poor
+53000,Shared housing,Undergraduate,Moderate
+28000,Rented,Undergraduate,Limited
+75000,Owned,Undergraduate,Excellent
+46000,Rented,Undergraduate,Good
+27000,Rented,Primary,Limited
+82000,Owned,Graduate,Excellent
+62000,Owned,Undergraduate,Excellent
+111000,Owned,Postgraduate,Excellent
+26000,Rented,Secondary,Limited
+10000,Shared housing,Primary,Poor
+54000,Rented,Postgraduate,Excellent
+19000,Shared housing,High School,Limited
+48000,Owned,Postgraduate,Excellent
+39000,Owned,Undergraduate,Good
+44000,Owned,Secondary,Good
+49000,Rented,Undergraduate,Good
+15000,Rented,High School,Poor
+36000,Owned,Graduate,Excellent
+36000,Rented,Undergraduate,Limited
+44000,Owned,Undergraduate,Good
+24000,Shared housing,High School,Moderate
+16000,Rented,No formal education,Poor
+21000,Shared housing,High School,Limited
+51000,Rented,Undergraduate,Good
+98000,Owned,Postgraduate,Excellent
+22000,Owned,High School,Moderate
+21000,Rented,High School,Limited
+108000,Owned,Graduate,Excellent
+33000,Owned,High School,Good
+52000,Owned,Undergraduate,Good
+81000,Rented,Graduate,Excellent
+65000,Owned,Undergraduate,Excellent
+30000,Owned,Primary,Poor
+62000,Owned,Undergraduate,Excellent
+21000,Unstable,Primary,Poor
+19000,Rented,High School,Limited
+42000,Rented,Graduate,Good
+47000,Owned,Undergraduate,Excellent
+25000,Rented,Secondary,Limited
+51000,Owned,Undergraduate,Good
+82000,Owned,Undergraduate,Good
+55000,Owned,Graduate,Excellent
+40000,Owned,Undergraduate,Moderate
+35000,Rented,Graduate,Good
+60000,Rented,Undergraduate,Good
+32000,Rented,Primary,Moderate
+34000,Shared housing,High School,Limited
+23000,Rented,Primary,Limited
+13000,Temporary,High School,Poor
+19000,Rented,High School,Limited
+48000,Rented,High School,Moderate
+23000,Unstable,High School,Poor
+16000,Temporary,Secondary,Poor
+76000,Owned,Graduate,Excellent
+13000,Homeless,Primary,Poor
+25000,Rented,High School,Moderate
+51000,Owned,Undergraduate,Good
+18000,Rented,Secondary,Limited
+26000,Owned,High School,Limited
+37000,Owned,High School,Good
+80000,Rented,Graduate,Excellent
+22000,Rented,Primary,Limited
+14000,Temporary,Primary,Poor
+36000,Owned,High School,Moderate
+30000,Rented,Undergraduate,Good
+60000,Owned,Graduate,Excellent
+20000,Rented,High School,Poor
+149000,Rented,Postgraduate,Excellent
+53000,Owned,Undergraduate,Excellent
+74000,Rented,Postgraduate,Excellent
+129000,Owned,Graduate,Excellent
+54000,Owned,Graduate,Excellent
+19000,Shared housing,Primary,Poor
+59000,Owned,Graduate,Excellent
+66000,Owned,Undergraduate,Good
+14000,Shared housing,Secondary,Poor
+14000,Shared housing,Primary,Poor
+8000,Unstable,Primary,Poor
+21000,Unstable,High School,Limited
+22000,Unstable,Primary,Limited
+22000,Rented,High School,Limited
+34000,Rented,Secondary,Moderate
+8000,Temporary,Primary,Poor
+21000,Rented,Primary,Limited
+11000,Unstable,Primary,Poor
+51000,Owned,Postgraduate,Excellent
+46000,Rented,Undergraduate,Good
+34000,Shared housing,Undergraduate,Good
+59000,Owned,Postgraduate,Excellent
+43000,Shared housing,Undergraduate,Moderate
+59000,Owned,Postgraduate,Excellent
+63000,Rented,Undergraduate,Good
+30000,Rented,High School,Good
+63000,Owned,Undergraduate,Excellent
+71000,Owned,High School,Excellent
+30000,Owned,Secondary,Limited
+18000,Unstable,Primary,Poor
+78000,Owned,Postgraduate,Excellent
+22000,Shared housing,High School,Moderate
+34000,Temporary,Graduate,Moderate
+17000,Temporary,High School,Limited
+16000,Shared housing,Primary,Poor
+55000,Owned,Undergraduate,Excellent
+15000,Rented,Primary,Poor
+63000,Owned,Undergraduate,Good
+36000,Owned,High School,Moderate
+70000,Owned,Undergraduate,Good
+8000,Temporary,Primary,Poor
+15000,Rented,No formal education,Poor
+23000,Owned,Secondary,Moderate
+43000,Rented,Postgraduate,Good
+25000,Temporary,High School,Limited
+79000,Owned,Undergraduate,Excellent
+28000,Rented,High School,Limited
+27000,Owned,Secondary,Moderate
+12000,Shared housing,Secondary,Limited
+98000,Owned,Undergraduate,Excellent
+36000,Owned,High School,Good
+73000,Owned,Postgraduate,Excellent
+39000,Owned,Graduate,Excellent
+46000,Owned,Graduate,Good
+8000,Temporary,Primary,Poor
+22000,Unstable,High School,Limited
+8000,Temporary,No formal education,Poor
+47000,Rented,Graduate,Good
+41000,Rented,High School,Moderate
+44000,Shared housing,High School,Moderate
+28000,Rented,Secondary,Limited
+17000,Rented,Primary,Limited
+113000,Owned,Postgraduate,Excellent
+52000,Unstable,Undergraduate,Moderate
+18000,Rented,High School,Poor
+28000,Owned,Undergraduate,Good
+30000,Owned,High School,Moderate
+71000,Owned,Graduate,Excellent
+64000,Owned,Graduate,Good
+12000,Owned,No formal education,Poor
+28000,Rented,High School,Limited
+14000,Unstable,Primary,Poor
+33000,Owned,High School,Good
+32000,Owned,High School,Moderate
+45000,Owned,Undergraduate,Excellent
+16000,Rented,Secondary,Limited
+32000,Rented,Undergraduate,Good
+22000,Unstable,High School,Poor
+111000,Owned,Graduate,Excellent
+60000,Owned,Graduate,Excellent
+23000,Unstable,Primary,Limited
+44000,Temporary,Undergraduate,Moderate
+25000,Rented,Secondary,Good
+34000,Rented,Undergraduate,Good
+14000,Shared housing,Primary,Poor
+20000,Rented,Primary,Limited
+75000,Rented,Postgraduate,Excellent
+83000,Owned,Graduate,Excellent
+22000,Rented,High School,Moderate
+25000,Shared housing,Secondary,Limited
+19000,Temporary,Secondary,Poor
+37000,Unstable,High School,Moderate
+24000,Temporary,High School,Poor
+24000,Owned,Primary,Moderate
+55000,Owned,High School,Excellent
