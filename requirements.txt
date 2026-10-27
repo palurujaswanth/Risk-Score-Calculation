@@ -6,3 +6,5 @@ joblib
 xgboost
 lightgbm
 streamlit
+fastapi
+uvicorn
