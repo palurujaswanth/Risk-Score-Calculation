@@ -1,0 +1,6 @@
+Selected model by held-out PR-AUC: xgboost
+Target: adverse_event_90d
+Random state: 42
+Test size: 20%
+Risk categories: Low < 33.33%; Medium 33.33% to < 66.67%; High >= 66.67% (provisional demo thresholds, not clinical cutoffs).
+Before interpreting results, verify target provenance, observation windows, and absence of temporal/label leakage.
